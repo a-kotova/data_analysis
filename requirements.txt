@@ -1,0 +1,7 @@
+jupyterlab==4.4.5
+matplotlib==3.9.4
+matplotlib-inline==0.1.7
+numpy==2.0.2
+pandas==2.3.1
+seaborn==0.13.2
+wordcloud==1.9.4
