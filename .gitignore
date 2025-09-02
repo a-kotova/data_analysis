@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm folder
+.idea/
+
+# macOS files
+.DS_Store
